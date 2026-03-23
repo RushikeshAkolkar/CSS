@@ -1,0 +1,18 @@
+h1
+{
+font-style:italic;
+font-color:yellow;
+
+font-size:23px;
+font-family:Gigi;
+
+}
+p
+{
+background-color:pink;
+}
+h2
+{
+border:solid blue 1px;
+padding:30px;
+}
